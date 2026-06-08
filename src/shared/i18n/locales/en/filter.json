@@ -1,1 +1,14 @@
-{}
+{
+	"title": "Filters",
+	"apply": "Apply",
+	"close": "Close",
+	"openFilters": "Open Filters",
+	"currentFilters": "Current applied filters:",
+	"loading": "Loading...",
+	"confirm": {
+		"title": "Apply filters",
+		"description": "Do you want to apply new filter?",
+		"confirm": "Apply new filter",
+		"cancel": "Use old filter"
+	}
+}
